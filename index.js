@@ -1,4 +1,4 @@
-import persons from './persons.json';
+import persons from './persons.json' assert { type: "json" };
 
 console.log('Person', persons);
 

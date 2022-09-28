@@ -2,5 +2,21 @@
   "name": "js",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "description": "[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-kymvs6)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al-Aswad/another-titanic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al-Aswad/another-titanic/issues"
+  },
+  "homepage": "https://github.com/Al-Aswad/another-titanic#readme"
 }
